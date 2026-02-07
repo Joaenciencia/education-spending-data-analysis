@@ -14,6 +14,5 @@ Using a real-world dataset on government expenditure in education, this project 
 - Applying descriptive statistics to extract insights
 - Visualizing patterns using Python
 
-This repository is designed as a **learning-oriented yet portfolio-ready data science project**.
 
 ---
